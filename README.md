@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HUGODELBEGUE
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on front projects
+- 👀 I’m interested in __frontend development
+- 🌱 I’m currently learning __JavaScript
+- 💞️ I’m looking to collaborate on __front projects
 - 📫 How to reach me hugodelbegue@gmail.com
 
 <!---
