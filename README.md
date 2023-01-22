@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HUGODELBEGUE
+- 👋 Hi, I’m @hugodelbegue
 - 👀 I’m interested in __frontend development
 - 🌱 I’m currently learning __JavaScript
 - 💞️ I’m looking to collaborate on __front projects
